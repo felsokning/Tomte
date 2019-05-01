@@ -10,6 +10,6 @@ Tomte exposes Windows Workflows via a WCF Service, which is wrapped by a Windows
 
 ## Screenshots
 
-![DemonstrationofPowerShellCommands](/ScreenShots/PowerShellExecution.png?raw=true "PowerShell Commands return the data that you request via the command from the remote endpoint.")
+![DemonstrationofPowerShellCommands](/ScreenShots/PowerShellExecution.PNG?raw=true "PowerShell Commands return the data that you request via the command from the remote endpoint.")
 
-![SqlQueryResults](/ScreenShots/SqlQuery.png?raw=true "Executions can be queried by users or you can build a central monitoring service for long-running activities.")
+![SqlQueryResults](/ScreenShots/SqlQuery.PNG?raw=true "Executions can be queried by users or you can build a central monitoring service for long-running activities.")
