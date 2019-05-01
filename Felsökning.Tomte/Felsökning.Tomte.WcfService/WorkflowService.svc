@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Felsökning.Tomte.WcfService.Service1" CodeBehind="WorkflowService.svc.cs" %>

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Felsökning.Tomte.PowerShell", "Felsökning.Tomte.PowerShell\Felsökning.Tomte.PowerShell.csproj", "{D34C6DEF-BC46-4021-A2A0-C2C0EBC4FD2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Felsökning.Tomte.WcfService", "Felsökning.Tomte.WcfService\Felsökning.Tomte.WcfService.csproj", "{4C210632-3215-464B-86DA-3D310A5D2AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Felsökning.Tomte.AdminService", "Felsökning.Tomte.AdminService\Felsökning.Tomte.AdminService.csproj", "{5CAD8CAD-18E2-4A42-A6BF-9B7BBE3AB2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Felsökning.Tomte.ProjectTests", "Felsökning.Tomte.ProjectTests\Felsökning.Tomte.ProjectTests.csproj", "{335A8908-94FC-4AB6-BACC-F4E3CA562CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34C6DEF-BC46-4021-A2A0-C2C0EBC4FD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34C6DEF-BC46-4021-A2A0-C2C0EBC4FD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34C6DEF-BC46-4021-A2A0-C2C0EBC4FD2F}.Debug|x64.ActiveCfg = Debug|x64
+		{D34C6DEF-BC46-4021-A2A0-C2C0EBC4FD2F}.Debug|x64.Build.0 = Debug|x64
+		{D34C6DEF-BC46-4021-A2A0-C2C0EBC4FD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34C6DEF-BC46-4021-A2A0-C2C0EBC4FD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34C6DEF-BC46-4021-A2A0-C2C0EBC4FD2F}.Release|x64.ActiveCfg = Release|x64
+		{D34C6DEF-BC46-4021-A2A0-C2C0EBC4FD2F}.Release|x64.Build.0 = Release|x64
+		{4C210632-3215-464B-86DA-3D310A5D2AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C210632-3215-464B-86DA-3D310A5D2AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C210632-3215-464B-86DA-3D310A5D2AD8}.Debug|x64.ActiveCfg = Debug|x64
+		{4C210632-3215-464B-86DA-3D310A5D2AD8}.Debug|x64.Build.0 = Debug|x64
+		{4C210632-3215-464B-86DA-3D310A5D2AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C210632-3215-464B-86DA-3D310A5D2AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C210632-3215-464B-86DA-3D310A5D2AD8}.Release|x64.ActiveCfg = Release|x64
+		{4C210632-3215-464B-86DA-3D310A5D2AD8}.Release|x64.Build.0 = Release|x64
+		{5CAD8CAD-18E2-4A42-A6BF-9B7BBE3AB2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAD8CAD-18E2-4A42-A6BF-9B7BBE3AB2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAD8CAD-18E2-4A42-A6BF-9B7BBE3AB2A5}.Debug|x64.ActiveCfg = Debug|x64
+		{5CAD8CAD-18E2-4A42-A6BF-9B7BBE3AB2A5}.Debug|x64.Build.0 = Debug|x64
+		{5CAD8CAD-18E2-4A42-A6BF-9B7BBE3AB2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAD8CAD-18E2-4A42-A6BF-9B7BBE3AB2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAD8CAD-18E2-4A42-A6BF-9B7BBE3AB2A5}.Release|x64.ActiveCfg = Release|x64
+		{5CAD8CAD-18E2-4A42-A6BF-9B7BBE3AB2A5}.Release|x64.Build.0 = Release|x64
+		{335A8908-94FC-4AB6-BACC-F4E3CA562CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335A8908-94FC-4AB6-BACC-F4E3CA562CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335A8908-94FC-4AB6-BACC-F4E3CA562CCB}.Debug|x64.ActiveCfg = Debug|x64
+		{335A8908-94FC-4AB6-BACC-F4E3CA562CCB}.Debug|x64.Build.0 = Debug|x64
+		{335A8908-94FC-4AB6-BACC-F4E3CA562CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335A8908-94FC-4AB6-BACC-F4E3CA562CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335A8908-94FC-4AB6-BACC-F4E3CA562CCB}.Release|x64.ActiveCfg = Release|x64
+		{335A8908-94FC-4AB6-BACC-F4E3CA562CCB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12FBF98-6194-4757-9D49-7025BCB3CDEC}
+	EndGlobalSection
+EndGlobal
